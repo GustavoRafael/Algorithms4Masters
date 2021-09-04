@@ -1,0 +1,12 @@
+E:\Algoritmo_\code_v5\MaximoParalelismo\obj\Debug\MaximoParalelismo.csprojAssemblyReference.cache
+E:\Algoritmo_\code_v5\MaximoParalelismo\obj\Debug\MaximoParalelismo.csproj.CoreCompileInputs.cache
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\MaximoParalelismo.exe.config
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\MaximoParalelismo.exe
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\MaximoParalelismo.pdb
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\System.ValueTuple.dll
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\UltraDES.dll
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\System.ValueTuple.xml
+E:\Algoritmo_\code_v5\MaximoParalelismo\bin\Debug\UltraDES.pdb
+E:\Algoritmo_\code_v5\MaximoParalelismo\obj\Debug\MaximoParalelismo.csproj.CopyComplete
+E:\Algoritmo_\code_v5\MaximoParalelismo\obj\Debug\MaximoParalelismo.exe
+E:\Algoritmo_\code_v5\MaximoParalelismo\obj\Debug\MaximoParalelismo.pdb

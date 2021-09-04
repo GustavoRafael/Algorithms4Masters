@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0447EB71-C55C-4D4E-BCBF-E443D42C4A66}|Default">
+  <MonoDevelop.Ide.ItemProperties.sequecia__da__projecao__v3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sequencia_projecao_v10/Program.cs">
+    <Files>
+      <File FileName="sequencia_projecao_v10/Program.cs" Line="136" Column="1" />
+      <File FileName="sequencia_projecao_v10/PathFinder.cs" Line="71" Column="1" />
+      <File FileName="sequencia_projecao_v10/ISchedulingProblem.cs" Line="14" Column="27" />
+      <File FileName="UltraDES/Transitions/Transition.cs" Line="42" Column="1" />
+      <File FileName="UltraDES/States/State.cs" Line="87" Column="1" />
+      <File FileName="UltraDES/States/AbstractState.cs" Line="89" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../sequencia_projecao_v10/Program.cs" line="150" offsetX="1319" offsetY="2831" expression="aux" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.sequencia__projecao__v10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
