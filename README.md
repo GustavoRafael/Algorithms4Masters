@@ -19,6 +19,12 @@ Plants:
 
 Ps: Any new plants should be implemented as the existing plants. 
 
+## How to run
+
+- open visual studio (2017) and open the project's folder, or in the project's fold double click "UltraDES.sln" 
+- Inside Visual Studio go to Solutions Manager, then in "sequencia_projecão_v10" double click "Program.cs".
+- The main program is in ("Program.cs"), there you can set the parameters, select the plants and the batch size.
+
 # UltraDES
 UltraDES is a library for modeling, analysis and control of Discrete Event Systems. It has been developed at LACSED | UFMG (http://www.lacsed.eng.ufmg.br).
 
