@@ -1,3 +1,13 @@
+# Mastes Algorithms 
+
+- Solution of a Scheduling Problem using an Abstraction of the Closed-Loop Behavior of a Discrete Event System and machine learning.
+- Development and implementation of Evolutionary algorithms in C# using .Net Framework and the UltraDES Library.
+
+Algorithms:
+- Clonal
+- Maximum parallelism 
+- 
+
 # UltraDES
 UltraDES is a library for modeling, analysis and control of Discrete Event Systems. It has been developed at LACSED | UFMG (http://www.lacsed.eng.ufmg.br).
 
