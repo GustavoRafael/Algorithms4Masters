@@ -6,7 +6,18 @@
 Algorithms:
 - Clonal
 - Maximum parallelism 
-- 
+	- TimedMaximumParallelism (Standard)
+	- GreedyParallelism
+	- HeuristicShortestMakespa
+	- GreedyTime
+
+Plants:
+- SFM	  (FMS - Flexible Manufacturing System)
+- SF      (Small Factory)
+- ITL
+- CTESsep (Cluster tool)
+
+Ps: Any new plants should be implemented as the existing plants. 
 
 # UltraDES
 UltraDES is a library for modeling, analysis and control of Discrete Event Systems. It has been developed at LACSED | UFMG (http://www.lacsed.eng.ufmg.br).
