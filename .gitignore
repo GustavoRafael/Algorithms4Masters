@@ -3,4 +3,6 @@ USER/*.txt
 USER/*.svg
 USER/*.csv
 USER/*.html
-#USER/*
+.vs/
+*/bin/
+*/obj/
