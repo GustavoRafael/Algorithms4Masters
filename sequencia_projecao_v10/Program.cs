@@ -49,12 +49,12 @@ namespace sequencia_projecao_v10
 			System.Threading.Thread.CurrentThread.Priority = System.Threading.ThreadPriority.AboveNormal;
 
             // Inicialização do ClusterTool 
-            int layout = 1, tempocamaras = 10, numcamaras = 4;
-            var problem = new CTESsep(layout, tempocamaras, numcamaras);                             
+            //int layout = 1, tempocamaras = 10, numcamaras = 4;
+            //var problem = new CTESsep(layout, tempocamaras, numcamaras);                             
             
             
 			// Inicialização dos outros problemas (SF, SFM, ITL)
-			//var problem = new SFM();
+			var problem = new SFM();
 
             // quantidade de produtos no lote
             //int[] numProducts = Enumerable.Range(1,8).ToArray(); // 1 ate 10
