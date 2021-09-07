@@ -69,7 +69,7 @@ namespace MaximoParalelismo
 
                 //Logical Algorithms
 
-                tests[1] = (prod) => GreedyParallelism(
+                tests[0] = (prod) => GreedyParallelism(
                     plant.Supervisor,
                     plant.InitialState,
                     plant.TargetState,
@@ -80,7 +80,7 @@ namespace MaximoParalelismo
                     transitions
                     ).ToArray();
 
-                tests[0] = (prod) => LogicalMaximumParallelism(
+                tests[1] = (prod) => LogicalMaximumParallelism(
                     plant.Supervisor,
                     plant.InitialState,
                     plant.Depth * prod,
